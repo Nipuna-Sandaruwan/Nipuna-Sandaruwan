@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nipuna Sandaruwan</h1>
 
-###
+
 <p align="left">My name is Nipuna Sandaruwan and <br> I'm passionate developer who is currently undergraduating .</p>
-###
+
 <h2 align="left">About me</h2>
 
 
