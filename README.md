@@ -7,7 +7,7 @@
 
 
 
-<p align="left">✨ Creating & fixing  bugs since 2022 <br>📚 I'm currently learning </p>
+<p align="left">✨ Creating & fixing  bugs since 2022 <br>📚 I'm currently studying computer science  </p>
 
 
 <h2 align="left">I work with </h2>
